@@ -35,6 +35,10 @@ h2 {
   font-weight: normal;
 }
 
+#featured img{
+  border-color: rgb(111,127,122);
+  border: 1px;
+}
 
 
 footer {
