@@ -1,8 +1,9 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-h1, h2 {
-  font-family: 
+@font-face {
+  font-family: myFirstFont;
+  src: "./fonts/Baskerville.ttc";
 }
 /*////////// Global Styles //////////*/
 
