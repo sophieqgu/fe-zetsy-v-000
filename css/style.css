@@ -41,7 +41,7 @@ img{
   border-width: 3px
 }
 
-#press {
+#press a {
   display: inline-block;
   position: relative;
 }
