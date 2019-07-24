@@ -25,7 +25,7 @@ h1 {
   font-family: 'Baskerville', serif;
   color: rgb(111,127,122);
   font-size: 5em;
-  font-weight: 300;
+  font-weight: lighter;
 }
 
 h2 {
@@ -33,4 +33,9 @@ h2 {
   color: rgb(111,127,122);
   font-size: 2em;
   font-weight: normal;
+}
+
+footer {
+  text-align: right;
+}
 }
