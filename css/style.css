@@ -37,7 +37,8 @@ h2 {
 
 #featured img{
   border-color: rgb(111,127,122);
-  border: 1px, solid;
+  border-style: solid;
+  border
 }
 
 
