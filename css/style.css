@@ -41,12 +41,10 @@ img{
   border-width: 3px
 }
 
-#press {
-  width: 100%;
-}
 
 #press a {
   display: inline-block;
+  width: 25%;
 }
 
 footer {
