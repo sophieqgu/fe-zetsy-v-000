@@ -21,9 +21,13 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
+h1, h2 {
   font-family: 'Baskerville', serif;
   color: rgb(111,127,122);
   font-size: 5em;
   font-weight: lighter;
+}
+
+h2 {
+  
 }
