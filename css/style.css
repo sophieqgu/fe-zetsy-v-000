@@ -43,7 +43,7 @@ img{
 
 #press a {
   display: inline-block;
-  position: relative;
+  text-align: justify;
 }
 
 footer {
