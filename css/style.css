@@ -41,9 +41,9 @@ img{
   border-width: 3px
 }
 
-#press img {
+#press {
   display: inline-block;
-  width: 24%;
+  width: 100%;
 }
 
 footer {
