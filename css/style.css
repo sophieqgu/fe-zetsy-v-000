@@ -45,6 +45,10 @@ img{
   width: 100%;
 }
 
+#press a {
+  display: inline-block;
+}
+
 footer {
   text-align: right;
 }
