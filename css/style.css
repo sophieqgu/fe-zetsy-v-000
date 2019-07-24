@@ -21,8 +21,8 @@ body {
 }
 
 /* Write all remaining styles here */
-header {
-  font-family: 'Baskerville', serif
+h1 {
+  font-family: 'Baskerville', serif;
   color: rgb(111,127,122);
   font-size: 5em
 }
